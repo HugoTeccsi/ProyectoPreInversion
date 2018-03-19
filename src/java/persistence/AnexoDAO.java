@@ -17,6 +17,7 @@ import org.springframework.jdbc.core.RowMapper;
  * @author Juanka
  */
 public class AnexoDAO {
+    //dao anexo
     JdbcTemplate template;
     
     public void setTemplate(JdbcTemplate template) {
