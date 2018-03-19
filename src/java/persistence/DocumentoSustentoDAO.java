@@ -17,7 +17,7 @@ import org.springframework.jdbc.core.RowMapper;
  * @author Juanka
  */
 public class DocumentoSustentoDAO {
-
+    //dao documentos
     JdbcTemplate template;
     
     public void setTemplate(JdbcTemplate template) {
